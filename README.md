@@ -4,7 +4,7 @@ Started in tech around the age of 10 when he repaired the family console stereo 
 
 Wrote a driver to connect a Brother typewriter to his Apple IIc.
 
-See the [Terpsoft](https://www.terpsoft.com/).
+See <a href="https://www.terpsoft.com/" target="_blank">Terpsoft.com<a/>
 
 ## **Table Example** ##
 Use the following links to navigate this page and jump to the area of interest.
